@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Calum!
+
+[![Calum Fenton's GitHub stats](https://github-readme-stats.vercel.app/api?username=caltfi)](https://github.com/caltfi/github-readme-stats)
 
 <!--
 **caltfi/caltfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
