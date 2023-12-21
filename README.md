@@ -1,6 +1,8 @@
 ### Hey, I'm Calum!
 
-[![Calum Fenton's GitHub stats](https://github-readme-stats.vercel.app/api?username=caltfi)](https://github.com/caltfi/github-readme-stats)
+[![Calum Fenton's GitHub stats](https://github-readme-stats.vercel.app/api?username=caltfi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card for Solar System in JS](https://github-readme-stats.vercel.app/api/pin/?username=caltfi&repo=solar_system)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **caltfi/caltfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
