@@ -1,6 +1,9 @@
 ### Hey, I'm Calum!
 
+I am a full-stack developer from Cork, Ireland. My website is [here](https://www.calumfenton.com).
+
 [![Calum Fenton's GitHub stats](https://github-readme-stats.vercel.app/api?username=caltfi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caltfi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card for Solar System in JS](https://github-readme-stats.vercel.app/api/pin/?username=caltfi&repo=solar_system)](https://github.com/anuraghazra/github-readme-stats)
