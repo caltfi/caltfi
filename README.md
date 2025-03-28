@@ -2,8 +2,6 @@
 
 I am a full-stack developer from Cork, Ireland. My website is **[here](https://www.calumfenton.com)**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caltfi)](https://github.com/anuraghazra/github-readme-stats) 
-
 ### Current Project
 
 Here is a project I am currently working on. It is an educational tool for learning about the solar system. I am making it with Three.js!
